@@ -1,0 +1,9 @@
+footer{
+    position: fixed;
+    display: grid;
+    left: 0px;
+    bottom: 0px;
+    grid-template:6vh 6vh/37.5vw 37.5vw;
+    grid-column-gap:25vw;
+    text-align: center;
+}
